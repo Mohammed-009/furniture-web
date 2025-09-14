@@ -18,4 +18,5 @@ function validateForm() {
         alert("Fill out all the fields!");
         return false;
     }
+    return true;
 }
