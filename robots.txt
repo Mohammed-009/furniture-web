@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://furniture-web-blond.vercel.app/sitemap.xml
